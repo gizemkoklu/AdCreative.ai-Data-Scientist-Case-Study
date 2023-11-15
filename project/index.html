@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ad Generator</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        form {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            margin-top: 20px; /* Ekstra boşluk ekledim */
+        }
+
+        h2 {
+            margin-bottom: 20px;
+            color: #118822; /* Başlık rengini değiştirdim */
+        }
+
+        label {
+            display: block;
+            margin-bottom: 10px;
+            color: #333; /* Etiket rengini değiştirdim */
+        }
+
+        input {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 15px;
+            box-sizing: border-box;
+        }
+
+        button {
+            background-color: #118822;
+            color: #fff;
+            padding: 10px 20px;
+            font-size: 16px;
+            font-weight: bold;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h2>Ad Generator</h2>
+    
+    <form method="POST" action="{{ url_for('template_page') }}" enctype="multipart/form-data">
+
+        <label for="main_image">Main Image:</label>
+        <input type="file" name="main_image" accept=".png, .jpg, .jpeg, .gif" required>
+
+        <label for="logo">Logo:</label>
+        <input type="file" name="logo" accept=".png, .jpg, .jpeg, .gif" required>
+
+        <label for="prompt">Prompt:</label>
+        <input type="text" name="prompt" required>
+
+        <label for="punchline">Punchline:</label>
+        <input type="text" name="punchline" required>
+
+        <label for="button_text">Button Text:</label>
+        <input type="text" name="button_text" required>
+
+        <button type="submit">Generate Ad</button>
+    </form>
+</body>
+</html>
