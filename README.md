@@ -38,6 +38,5 @@ Reklam şablonları, sizin belirlediğiniz parametrelere göre düzenlenir.
 
 Oluşturulan şablonu hemen görebilirsiniz:
 
-![template2](https://github.com/gizemkoklu/Create-Ad-Template-Using-StableDiffusion/assets/93999489/af6e0031-b583-458e-a992-b84b9dd0524d)
 
 
