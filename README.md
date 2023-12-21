@@ -25,7 +25,7 @@ Uygulamayı çalıştırdıktan sonra açılan sayfamızda:
 
 main image.png ve logo.png örnek dosyalarını sizin için ekledim.
 
-prompt kısmı örneği: "A photo of small white cardboard cup with a black plastic lid, featuring a Coffee Bean logo with a shadow reflecting, taken with a background of yellow flower branches, placed on a small wooden-patterned table with a glossy surface."
+prompt kısmı örneği: "A photo of small white cardboard cup with a black plastic lid, taken with a background of yellow flower branches, placed on a small wooden-patterned table with a glossy surface."
 
 punchline kısmı örneği: AI ad banners lead to higher conversions ratesxxxx
 
