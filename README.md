@@ -1,5 +1,5 @@
 Bu araç, kişisel reklam şablonları oluşturmanıza olanak tanıyan FLASK web uygulamasıdır.
-!!!Uygulama Colaboratory kullanılarak oluşturulmuş olup colab platformunda T4 GPU ile bağlanılarak çalıştırılmalı sonucunda verilen ngrok linki ile reklam şablonunuzu oluşturabilirsiniz.
+!!!Uygulama Colaboratory kullanılarak oluşturulmuş olup colab platformunda T4 GPU ile bağlanılarak çalıştırılmalı sonucunda verilen Running on kısmındaki ngrok linkine tıklayıp visit site diyerek reklam şablonunuzu oluşturabilirsiniz.
 
 Kolay kullanımı ile sdece birkaç adımda, reklam şablonunuzu kişiselleştirebilirsiniz. 
 
@@ -15,9 +15,9 @@ Uygulamayı çalıştırdıktan sonra açılan sayfamızda:
 
 Örnek olarak:
 main image.png ve logo.png örnek dosyalarını sizin için ekledim.
-prompt kısmı örneği:
-punchline kısmı örneği:
-buton kısmı örneği:
+prompt kısmı örneği: "A photo of white cardboard cup with black lid among purple orchid branches on a wooden table, highly detailed"   (sarı çiçekleri mor ile değiştirmesini istedim)
+punchline kısmı örneği: AI ad banners lead to higher conversions ratesxxxx
+buton kısmı örneği: call to action text here!
 
 
 Bilgiler girdikten sonra, uygulama hemen çalışmaya başlar ve sizin için özel tasarlanmış reklam şablonunu oluşturur.
