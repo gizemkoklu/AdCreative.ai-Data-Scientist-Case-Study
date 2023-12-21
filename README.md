@@ -18,6 +18,8 @@ Uygulamayı çalıştırdıktan sonra açılan sayfamızda:
 
 5- buton kısmında yazılmasını istediğiniz şey (örneğin "Tıkla!" yazmak.)
 
+
+
 Örnek olarak:
 main image.png ve logo.png örnek dosyalarını sizin için ekledim.
 
