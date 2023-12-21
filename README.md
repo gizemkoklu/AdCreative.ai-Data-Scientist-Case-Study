@@ -25,7 +25,7 @@ Uygulamayı çalıştırdıktan sonra açılan sayfamızda:
 
 main image.png ve logo.png örnek dosyalarını sizin için ekledim.
 
-prompt kısmı örneği: "A photo of white cardboard cup with black lid among purple orchid branches on a wooden table, highly detailed"   (sarı çiçekleri mor ile değiştirmesini istedim)
+prompt kısmı örneği: "A photo of small white cardboard cup with a black plastic lid, featuring a Coffee Bean logo with a shadow reflecting, taken with a background of yellow flower branches, placed on a small wooden-patterned table with a glossy surface."
 
 punchline kısmı örneği: AI ad banners lead to higher conversions ratesxxxx
 
@@ -38,5 +38,6 @@ Reklam şablonları, sizin belirlediğiniz parametrelere göre düzenlenir.
 
 Oluşturulan şablonu hemen görebilirsiniz:
 
+![template2](https://github.com/gizemkoklu/Create-Ad-Template-Using-StableDiffusion/assets/93999489/0b72f095-07cc-4201-bbc6-51d2ca724832)
 
 
