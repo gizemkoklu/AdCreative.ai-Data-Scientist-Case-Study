@@ -36,8 +36,9 @@ Bilgiler girdikten sonra, uygulama hemen çalışmaya başlar ve sizin için öz
 
 Reklam şablonları, sizin belirlediğiniz parametrelere göre düzenlenir. 
 
-Oluşturulan şablonu hemen görebilirsiniz:
+Oluşturulan örnek şablonu hemen görebilirsiniz:
 
 ![template2](https://github.com/gizemkoklu/Create-Ad-Template-Using-StableDiffusion/assets/93999489/0b72f095-07cc-4201-bbc6-51d2ca724832)
 
 
+Fotoğrafı değiştirmek istediğiniz prompta yazdıklarınızı değiştirerek oynama yapabilirsiniz ve farklı AI görüntüleri oluşturabilirsiniz.
