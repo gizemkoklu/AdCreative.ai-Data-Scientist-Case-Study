@@ -42,3 +42,9 @@ Oluşturulan örnek şablonu hemen görebilirsiniz:
 
 
 Fotoğrafı değiştirmek istediğiniz prompta yazdıklarınızı değiştirerek oynama yapabilirsiniz ve farklı AI görüntüleri oluşturabilirsiniz.
+
+
+dosya yollarım ise şu şekilde:
+
+![Screenshot from 2023-12-21 14-49-03](https://github.com/gizemkoklu/Create-Ad-Template-Using-StableDiffusion/assets/93999489/c231f126-a6c7-4d58-a9f5-48bb0c41d6b1)
+
