@@ -21,6 +21,7 @@ Uygulamayı çalıştırdıktan sonra açılan sayfamızda:
 
 
 Örnek olarak:
+
 main image.png ve logo.png örnek dosyalarını sizin için ekledim.
 
 prompt kısmı örneği: "A photo of white cardboard cup with black lid among purple orchid branches on a wooden table, highly detailed"   (sarı çiçekleri mor ile değiştirmesini istedim)
