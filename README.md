@@ -2,7 +2,7 @@ Bu araç, kişisel reklam şablonları oluşturmanıza olanak tanıyan FLASK web
 
 !!!Uygulama Colaboratory kullanılarak oluşturulmuş olup colab platformunda T4 GPU ile bağlanılarak çalıştırılmalı sonucunda verilen Running on kısmındaki ngrok linkine tıklayıp visit site diyerek reklam şablonunuzu oluşturabilirsiniz.
 
-Kolay kullanımı ile sdece birkaç adımda, reklam şablonunuzu kişiselleştirebilirsiniz. 
+Kolay kullanımı ile sadece birkaç adımda, reklam şablonunuzu kişiselleştirebilirsiniz. 
 
 Uygulamayı çalıştırdıktan sonra açılan sayfamızda:
 
