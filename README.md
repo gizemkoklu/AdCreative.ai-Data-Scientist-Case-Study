@@ -46,5 +46,5 @@ Fotoğrafı değiştirmek istediğiniz prompta yazdıklarınızı değiştirerek
 
 dosya yollarım ise şu şekilde:
 
-![Screenshot from 2023-12-21 14-49-03](https://github.com/gizemkoklu/Create-Ad-Template-Using-StableDiffusion/assets/93999489/c231f126-a6c7-4d58-a9f5-48bb0c41d6b1)
+![Screenshot from 2023-12-21 14-50-50](https://github.com/gizemkoklu/Create-Ad-Template-Using-StableDiffusion/assets/93999489/ee1b7483-2383-4a07-959d-9b18d3b68486)
 
