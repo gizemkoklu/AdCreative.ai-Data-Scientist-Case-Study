@@ -12,11 +12,11 @@ Uygulamayı çalıştırdıktan sonra açılan sayfamızda:
 
 2- logo kısmına şablonunuzun başında gözükmesini istediğiniz logonuzu ekliyorsunuz.
 
-3- prompt kısmına main image'i ai ile nasıl bir yeni görüntü oluşturmak istediğinizden detaylıca bahsedebilirsiniz. (opsiyonel olarak ingilizce yazmanız tavsiye edilir.)
+3- prompt kısmına main image'i ai ile nasıl bir yeni görüntü oluşturmak istediğinizden detaylıca bahsedebilirsiniz. (opsiyonel olarak ingilizce yazmanız tavsiye edilir)
 
 4- punchline kısmı reklam şablonunuzda yazmak istediğiniz, ilgi çekmesini istediğiniz o yazıyı yazabilirsiniz.
 
-5- buton kısmında yazılmasını istediğiniz şey (örneğin "Tıkla!" yazmak.)
+5- buton kısmında yazılmasını istediğiniz şey (örneğin "Tıkla!" yazmak)
 
 
 
