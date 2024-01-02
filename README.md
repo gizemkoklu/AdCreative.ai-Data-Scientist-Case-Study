@@ -27,7 +27,7 @@ main image.png ve logo.png örnek dosyalarını sizin için ekledim.
 
 prompt kısmı örneği: "A photo of small white cardboard cup with a black plastic lid, taken with a background of yellow flower branches, placed on a small wooden-patterned table with a glossy surface."
 
-punchline kısmı örneği: AI ad banners lead to higher conversions ratesxxxx
+punchline kısmı örneği: AI ad banners lead to higher conversions rates.......
 
 buton kısmı örneği: call to action text here!
 
@@ -44,7 +44,7 @@ Oluşturulan örnek şablonu hemen görebilirsiniz:
 Fotoğrafı değiştirmek istediğiniz prompta yazdıklarınızı değiştirerek oynama yapabilirsiniz ve farklı AI görüntüleri oluşturabilirsiniz.
 
 
-dosya yollarım ise şu şekilde:
+Dosya yollarım ise şu şekilde:
 
 ![Screenshot from 2023-12-21 14-50-50](https://github.com/gizemkoklu/Create-Ad-Template-Using-StableDiffusion/assets/93999489/ee1b7483-2383-4a07-959d-9b18d3b68486)
 
